@@ -1,0 +1,16 @@
+[
+	{
+		"id": 1,
+		"first_name": "Clark",
+		"last_name": "Kent",
+		"hair_color": "black",
+		"has_dog": true
+	},
+	{
+		"id": 2,
+		"first_name": "Bruce",
+		"last_name": "Wayne",
+		"hair_color": "black",
+		"has_dog": false
+	}
+]

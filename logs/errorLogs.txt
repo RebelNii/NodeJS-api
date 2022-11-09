@@ -1,0 +1,12 @@
+
+20221103	14:43:53	380340d3-8d27-4d75-bdeb-1afdac9d2245	/sub	GET	undefined	Error	not allowed by cors
+20221103	14:44:18	798a07c9-722c-46c1-9c60-048fd762c307	/sub	GET	undefined	Error	not allowed by cors
+20221103	17:59:56	21f7eb17-6dd2-443e-8b79-424245206177	/	GET	undefined	Error	Can't set headers after they are sent.
+20221103	18:01:42	9a2a31db-4c64-494c-b09a-25d807d8c5c7	/hello	GET	undefined	Error	ENOENT: no such file or directory, stat 'F:\projects\NodeJs\SCH\TWO\routes\views\newP.html'
+20221104	11:06:23	657a39e7-9f5e-46d9-bdb1-f6dcca4d3bfd	/employ	POST	undefined	SyntaxError	Unexpected token ' in JSON at position 1
+20221107	21:45:22	ca7c2ffa-32d6-4260-b960-43fe395b5803	/user	POST	undefined	TypeError	allow.included is not a function
+20221107	21:47:25	66f443eb-cc4f-4104-ab38-2dadba2a9ec7	/user	POST	undefined	ReferenceError	next is not defined
+20221107	22:33:31	3c33accc-1b3e-4c70-9a51-7549c0111863	/employ	POST	undefined	TypeError	Cannot read properties of undefined (reading 'map')
+20221107	23:14:36	980e70a3-adab-44fb-92d4-f13f28abf621	/employ	POST	undefined	TypeError	Cannot read properties of undefined (reading 'map')
+20221107	23:15:38	d7f96cf0-36e9-44d2-8f6c-eee386075f5b	/employ	POST	undefined	TypeError	Cannot read properties of undefined (reading 'roles')
+20221107	23:17:08	3e717f6a-f455-4e1e-b033-68310cf051fe	/employ	POST	undefined	TypeError	Cannot read properties of undefined (reading 'map')
